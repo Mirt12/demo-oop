@@ -2,8 +2,8 @@ package by.itacademy.tatjanabalashevich.javabasics.oop;
 
 public class Airplane {
 
-    Wing
-    Chassis
-    Engine
+    Wing wing;
+    Chassis chassis;
+    Engine engine;
 
 }

@@ -5,5 +5,4 @@ public class Airplane {
     Wing wing;
     Chassis chassis;
     Engine engine;
-
 }
